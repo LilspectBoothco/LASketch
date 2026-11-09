@@ -1,0 +1,1 @@
+document.addEventListener('submit', function(event) { if (event.target.tagName === 'FORM') { event.preventDefault(); event.stopImmediatePropagation(); alert('Recovered snapshot only. Enquiry submission is disabled.'); } }, true);

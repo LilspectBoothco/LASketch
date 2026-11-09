@@ -1,0 +1,424 @@
+{
+  "recovered_at_utc": "2026-11-09T15:02:10.322769+00:00",
+  "pages": [
+    {
+      "url": "https://la-sketch.webflow.io/",
+      "path": "index.html",
+      "last_published": "Sat Nov 07 2026 03:50:02 GMT+0000 (Coordinated Universal Time)",
+      "original_sha256": "3faf8961988b1053a648a3a29e855064e1bffaf1c49d43530c9d6f3fa64e9814",
+      "title": "La Sketch"
+    },
+    {
+      "url": "https://la-sketch.webflow.io/experiences",
+      "path": "experiences/index.html",
+      "last_published": "Sat Nov 07 2026 03:50:02 GMT+0000 (Coordinated Universal Time)",
+      "original_sha256": "bf73bf1fe3883ad5e254317529a07520ca5195137297495ba7e3ba52a605c9cb",
+      "title": "How it works"
+    }
+  ],
+  "assets": [
+    {
+      "url": "https://cdn.prod.website-files.com/6aeca1d7d209aff16c55d9f1/6aee3e5934a7d19dce9cbcbe_1-icon-frame.png",
+      "path": "assets/6165677cc6a7-6aee3e5934a7d19dce9cbcbe_1-icon-frame.png",
+      "bytes": 3567,
+      "sha256": "cf86c00d2226f8fcc24acd73ff525805f0e7bfe7d266bac4e844f3f3acfc327f"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6aeca1d7d209aff16c55d9f1/6aee3e5d988e910f5a8094a7_2-icon-person.png",
+      "path": "assets/87a1c18c48ed-6aee3e5d988e910f5a8094a7_2-icon-person.png",
+      "bytes": 3895,
+      "sha256": "830abef6e261b1775af701251c85837a3b49b05154bc910c95f570fb23611cd0"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6aeca1d7d209aff16c55d9f1/6aee3e61626593143e083597_3-icon-hashtag.png",
+      "path": "assets/fd028e934d5c-6aee3e61626593143e083597_3-icon-hashtag.png",
+      "bytes": 2927,
+      "sha256": "3297110195ab0f68ac5f7f83c89172ebc0657bd382a6bea5c6430cc089f2ae65"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6aeca1d7d209aff16c55d9f1/6aee3e6434a7d19dce9cbfa5_4-icon-palette.png",
+      "path": "assets/606d28a6f1a0-6aee3e6434a7d19dce9cbfa5_4-icon-palette.png",
+      "bytes": 5296,
+      "sha256": "cb87e19971bf08df456ab4ed76cfb5aea8f933de49d5842646bf56582de6bb3e"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6aeca1d7d209aff16c55d9f1/css/la-sketch.webflow.shared.cebfa014c.css",
+      "path": "assets/0408f07e9e00-la-sketch.webflow.shared.cebfa014c.css",
+      "bytes": 50583,
+      "sha256": "996f93b4d463377c343a5bd87e0dbc46ca42bb49b0cdaabc9c063b3fac4a8176"
+    },
+    {
+      "url": "https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js",
+      "path": "assets/012e56dad079-webfont.js",
+      "bytes": 13188,
+      "sha256": "81016ac6be850b72df5d4faa0c3cec8e2c1b0ba0045712144a6766adfad40bee"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/img/favicon.ico",
+      "path": "assets/6b3808c7fa6f-favicon.ico",
+      "bytes": 15086,
+      "sha256": "4239819d399860eb27d8a73417f9bd108d45d11676f68b5edaae328ec197d55e"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/img/webclip.png",
+      "path": "assets/b339bf500db7-webclip.png",
+      "bytes": 4807,
+      "sha256": "c305e6b8ea9916705eec8eb8c281561d907fdaa0c84f3dbe7b65dac9e2ddf993"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6aeca1d7d209aff16c55d9f1/6aecd1816eacb33fcdaf6d46_9-sketch-robot-mark.png",
+      "path": "assets/0f2e77d37036-6aecd1816eacb33fcdaf6d46_9-sketch-robot-mark.png",
+      "bytes": 7262,
+      "sha256": "725f838090446508d142537dbc87c9d3fcd5edc56b28a4658eeb1430499e59a7"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6aeca1d7d209aff16c55d9f1/6aecd183b6cdafc38777f7da_10-sketch-blue-underline.png",
+      "path": "assets/572be91b103e-6aecd183b6cdafc38777f7da_10-sketch-blue-underline.png",
+      "bytes": 15090,
+      "sha256": "12b236198b47f79fcea3227c2e406279107aaac1169645519bf7d621ae722653"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6aeca1d7d209aff16c55d9f1/6aed9f9737f06d0d1b67d933_1-hero-group.png",
+      "path": "assets/88d9c8fbb5e4-6aed9f9737f06d0d1b67d933_1-hero-group.png",
+      "bytes": 247062,
+      "sha256": "44c3657d5c2ca5487b907c63e8a4232a1585b1584940a8158affe288ed42b9bf"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6aeca1d7d209aff16c55d9f1/6aecc209aeb947215e0b714f_2-how-photo-clean.png",
+      "path": "assets/2a8f250c236c-6aecc209aeb947215e0b714f_2-how-photo-clean.png",
+      "bytes": 51133,
+      "sha256": "2050df36beac71bd5570f5d2d2357d8c23fc05696ec8a0e28c61c79d3734a0c7"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6aeca1d7d209aff16c55d9f1/6aecceaeaf8207fd0cc6a13c_8-how-robot-refined.png",
+      "path": "assets/1b341f45e213-6aecceaeaf8207fd0cc6a13c_8-how-robot-refined.png",
+      "bytes": 185335,
+      "sha256": "8a1e5c67ed8bd0827abc40082d1d7504a0175e75e79d77ab0d19e9f77fcdb368"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6aeca1d7d209aff16c55d9f1/6aecd72d691225def9b71b28_12-how-keepsake-clean.png",
+      "path": "assets/f78bf3e0a474-6aecd72d691225def9b71b28_12-how-keepsake-clean.png",
+      "bytes": 50654,
+      "sha256": "b056d325f1197f83a673586a3878a3e653551f5d58c5f44051bec4a80578c2e7"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6aeca1d7d209aff16c55d9f1/6aeda11ad026fd2dbc68d643_25-style-davinci.png",
+      "path": "assets/2c5527fa4a15-6aeda11ad026fd2dbc68d643_25-style-davinci.png",
+      "bytes": 103711,
+      "sha256": "f0874723d93f4205f9544e10fe29b31a865969793c5239143afb30994ed3f3e7"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6aeca1d7d209aff16c55d9f1/6aeda00761545a5461a19cda_3-style-michelangelo.png",
+      "path": "assets/02234dea43a4-6aeda00761545a5461a19cda_3-style-michelangelo.png",
+      "bytes": 91930,
+      "sha256": "afc3b0674764f369ae62d093312062f415d9d768ca1b943de895ba082422d9dc"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6aeca1d7d209aff16c55d9f1/6aeda15e27efdff714699531_29-style-raphael.png",
+      "path": "assets/54c8ab34ec16-6aeda15e27efdff714699531_29-style-raphael.png",
+      "bytes": 79573,
+      "sha256": "a13682f77ef3f174c0472302ce92f3fecebfc8dcee1676d334a32a89a2fd06a2"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6aeca1d7d209aff16c55d9f1/6aee837eb747a585c20691c8_5-picasso.png",
+      "path": "assets/90c79cce2050-6aee837eb747a585c20691c8_5-picasso.png",
+      "bytes": 150634,
+      "sha256": "7a1369b76494be1b11a1c7387634a627ebbae555850656018c788d070576b382"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6aeca1d7d209aff16c55d9f1/6aee84e79d663cae9d2a3e18_6-monet.png",
+      "path": "assets/f74866a98afb-6aee84e79d663cae9d2a3e18_6-monet.png",
+      "bytes": 187322,
+      "sha256": "bfcf89ba5ced06c406a69b7d73d7ad3ea98d92ea2416b3031701583770ff300b"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6aeca1d7d209aff16c55d9f1/6aee8501fc8446b6cc266b50_7-donatello.png",
+      "path": "assets/9f985e1970fc-6aee8501fc8446b6cc266b50_7-donatello.png",
+      "bytes": 170549,
+      "sha256": "ef935aa9aecbf30cb4de895c4fffeedf7af200de23ac5e601b371b185d4bf7ce"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6aeca1d7d209aff16c55d9f1/6aecc38e0adc6770a33d21c3_4-brand-keepsake.png",
+      "path": "assets/a1326c5fb4bb-6aecc38e0adc6770a33d21c3_4-brand-keepsake.png",
+      "bytes": 200573,
+      "sha256": "fe65475a28abf234c5ef1103999291a1492302f87b7b68905844046b66b4e517"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6aeca1d7d209aff16c55d9f1/6aeda01ad2c8a0d17f1d32f9_9-custom-beach.png",
+      "path": "assets/3681399ac56a-6aeda01ad2c8a0d17f1d32f9_9-custom-beach.png",
+      "bytes": 254190,
+      "sha256": "76b9bc06daa55ac689491d92f3124a095f26ede4556f1653828aad3e7207a7cc"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6aeca1d7d209aff16c55d9f1/6aeda0341f7f0c7100012478_10-icon-plug.png",
+      "path": "assets/bba41d2e0320-6aeda0341f7f0c7100012478_10-icon-plug.png",
+      "bytes": 6576,
+      "sha256": "c192ba15d402ff12b5fe546d155f1ed76b8b6b37489be992cb8de5f48acbbc55"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6aeca1d7d209aff16c55d9f1/6aeda01d1c9dca3784a1a6ea_11-icon-cube.png",
+      "path": "assets/551b9bdd8c1a-6aeda01d1c9dca3784a1a6ea_11-icon-cube.png",
+      "bytes": 14458,
+      "sha256": "1f6f6fd143ef47704308fa3a70c94dc4633afa16d5c1d2ca2960afa21bc3dff0"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6aeca1d7d209aff16c55d9f1/6aeda072fa93bb92483f89e3_15-icon-gear.png",
+      "path": "assets/e91955d5eebc-6aeda072fa93bb92483f89e3_15-icon-gear.png",
+      "bytes": 13241,
+      "sha256": "b4d1ec7088bd2837af43a2c6e2880e7ff8a75d7d00bd3ff55f8da4ac9a2dc8c7"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6aeca1d7d209aff16c55d9f1/6aeda077862983af33e2c93e_16-icon-lock.png",
+      "path": "assets/c2c05e8c78e2-6aeda077862983af33e2c93e_16-icon-lock.png",
+      "bytes": 7216,
+      "sha256": "e250d14daaa1098d23816e21bc253bddbb83b4c0c5f8b85d36ed14be408aa48f"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6aeca1d7d209aff16c55d9f1/6aecc400cfa4dcb1eb57eb62_5-stand-illustration.png",
+      "path": "assets/6771d43d6158-6aecc400cfa4dcb1eb57eb62_5-stand-illustration.png",
+      "bytes": 330429,
+      "sha256": "a7aab4d31fd70ebcc66ab66fdc43881e55470decedd1aef5138a6c079475b951"
+    },
+    {
+      "url": "https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=6aeca1d7d209aff16c55d9f1",
+      "path": "assets/1bc830d6cc9a-jquery-3.5.1.min.dc5e7f18c8.js",
+      "bytes": 89476,
+      "sha256": "f7f6a5894f1d19ddad6fa392b2ece2c5e578cbf7da4ea805b6885eb6985b6e3d"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6aeca1d7d209aff16c55d9f1/js/webflow.schunk.37b9a5f359763a77.js",
+      "path": "assets/710904f327e3-webflow.schunk.37b9a5f359763a77.js",
+      "bytes": 43608,
+      "sha256": "54f0b5e682b62b8866e2904f188caf93bb855b6fca23a68ee573fcb88fefb848"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6aeca1d7d209aff16c55d9f1/js/webflow.94b339a6.88bcdb8f1fcd94a3.js",
+      "path": "assets/bd452047acee-webflow.94b339a6.88bcdb8f1fcd94a3.js",
+      "bytes": 10988,
+      "sha256": "c28eff22064aecb9627e68bb68cdfee88466388bfc8026aede09862d914f3b7d"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/montserrat/v31/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8WXh0ow.ttf",
+      "path": "assets/0ce10c4aa5c7-JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8WXh0ow.ttf",
+      "bytes": 48904,
+      "sha256": "6718891f853c111526bca66e75c343a96496dfb69db7ee900e31d8a41804a14e"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/montserrat/v31/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9WXh0ow.ttf",
+      "path": "assets/98d30a4747af-JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9WXh0ow.ttf",
+      "bytes": 49044,
+      "sha256": "9b4568471ca4fba5d5b4696a7b1e25f582c5158704c88fb6f430fd79141c6ca6"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/montserrat/v31/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9WXh0ow.ttf",
+      "path": "assets/fb08e0218d3c-JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9WXh0ow.ttf",
+      "bytes": 49012,
+      "sha256": "8152496c381d40fcb3aaaeb74457fd40ad40fccc3a30611023979c1597a52765"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/montserrat/v31/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXh0ow.ttf",
+      "path": "assets/bc0d8aa5a966-JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXh0ow.ttf",
+      "bytes": 48904,
+      "sha256": "4b231e17d95572effae93f5d02a1bc82604e351ac01e508738fdcc23ca7585d7"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/montserrat/v31/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9WXh0ow.ttf",
+      "path": "assets/6e10822b2e49-JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9WXh0ow.ttf",
+      "bytes": 49016,
+      "sha256": "2230471388a5fb0a50dff4c4d6bb419f136c8d49da02734758863c175fd6ab5d"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/montserrat/v31/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6WXh0ow.ttf",
+      "path": "assets/affa3242aa0e-JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6WXh0ow.ttf",
+      "bytes": 49060,
+      "sha256": "0d865d49023bc608f9c50289d62d8dde7dca35cc94c6324e06d88f6af44fbe51"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/montserrat/v31/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXh0ow.ttf",
+      "path": "assets/2415b88c98a5-JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXh0ow.ttf",
+      "bytes": 48940,
+      "sha256": "140ace05dddee69a5cbe44c0659c2c211c639bacfe14989373ff27ff102c5e3f"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/montserrat/v31/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6WXh0ow.ttf",
+      "path": "assets/d57674f17ff1-JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6WXh0ow.ttf",
+      "bytes": 49504,
+      "sha256": "0a87263719cf507193e76ae4124dbcf4f2b69dcf6d39f4085d12f94265a60ce1"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/montserrat/v31/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16WXh0ow.ttf",
+      "path": "assets/5b4a72743e47-JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16WXh0ow.ttf",
+      "bytes": 49452,
+      "sha256": "8f3d8943d5833c2c367982ecccfc6b3bb2dde5563d26e37731a327e5b8b6e318"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw5aX8.ttf",
+      "path": "assets/bc19e6a1eb3b-JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw5aX8.ttf",
+      "bytes": 48444,
+      "sha256": "9e86c2b38e65c969f8cd5c8c803fbaa1c421d6ec01dd93f2425de645798a77f9"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw5aX8.ttf",
+      "path": "assets/b2cd389ed9c4-JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw5aX8.ttf",
+      "bytes": 48560,
+      "sha256": "58152b6edba3efa6db6808650f9f4e4e9a6f75130d47e5ea01ec3d820351b2d8"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aX8.ttf",
+      "path": "assets/46970ae53686-JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aX8.ttf",
+      "bytes": 48532,
+      "sha256": "a30a5d096ee32d9e4d7952daee4807e726b5201bea5d9951f0fb5a8619388555"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf",
+      "path": "assets/f9f931d4cae3-JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf",
+      "bytes": 48532,
+      "sha256": "76c4f058aac767f2f886d4f29393f6c38b47c7dc48f502dd9e30a273b4987e81"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8.ttf",
+      "path": "assets/f804c6019c35-JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8.ttf",
+      "bytes": 48556,
+      "sha256": "8f24d2f2c02250f7cc91ff6b4dd4c284efbed7a7e24f372c769b1631df56f54c"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf",
+      "path": "assets/d59b081cc22e-JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf",
+      "bytes": 48644,
+      "sha256": "96c43ee88af9d0379312ed086502f87f6bfebf675a6f473770d08c6dd27f2c1f"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf",
+      "path": "assets/b2dd8af98829-JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf",
+      "bytes": 48520,
+      "sha256": "5a491022018fd3965df4c071a581b055971e5be605b6df79d7ab03437a10234e"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w5aX8.ttf",
+      "path": "assets/aa2d7e6a7719-JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w5aX8.ttf",
+      "bytes": 49024,
+      "sha256": "b532ab97e82b8938a878cbf2611357f5331f4dc2cf08fc76c1f7b4076a68d5e4"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w5aX8.ttf",
+      "path": "assets/5433cb877a25-JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w5aX8.ttf",
+      "bytes": 48972,
+      "sha256": "aca194ccb86c639f0060eb5e9630e16d3b37ab5a8d27375e62a98a331ff91f9e"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css?family=Montserrat:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic",
+      "path": "assets/9d4b4102ffb2-css.css",
+      "bytes": 3249,
+      "sha256": "f1259658e8fbcd04ab628c14b8ee74d658511dada8cac9650dfb0c8e95bd4bbf"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6aeca1d7d209aff16c55d9f1/6aeda0825b2e06ab655c3e47_18-exp-hero.png",
+      "path": "assets/006fe0769ef2-6aeda0825b2e06ab655c3e47_18-exp-hero.png",
+      "bytes": 208520,
+      "sha256": "bdf47cf1c8063a32264618b268de599045fd8e0b12d0eefd9c917f04c5d95c45"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6aeca1d7d209aff16c55d9f1/6aeda0825b2e06ab655c3e47_18-exp-hero-p-500.png",
+      "path": "assets/445b33f026ec-6aeda0825b2e06ab655c3e47_18-exp-hero-p-500.png",
+      "bytes": 114859,
+      "sha256": "0a252a1a0c912f6ab7211ba49e2d4cc5c93d6e9943c79cc432e9994c24512588"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6aeca1d7d209aff16c55d9f1/6aeda0a229fb7bcfe905dded_19-exp-corporate.png",
+      "path": "assets/41da7ec102c6-6aeda0a229fb7bcfe905dded_19-exp-corporate.png",
+      "bytes": 158946,
+      "sha256": "c149c9f3f57000224772cad54acdb7e0f4f37952e7030324434b2576ff201945"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6aeca1d7d209aff16c55d9f1/6aeda0a229fb7bcfe905dded_19-exp-corporate-p-500.png",
+      "path": "assets/b672dcbd9397-6aeda0a229fb7bcfe905dded_19-exp-corporate-p-500.png",
+      "bytes": 80137,
+      "sha256": "968358d5345cdf91de4115fa850f038789191e64da5026386ebe08c14a10f437"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6aeca1d7d209aff16c55d9f1/6aeda0a70bd92053ad5c64ce_20-exp-exhibitions.png",
+      "path": "assets/32cce581e2ab-6aeda0a70bd92053ad5c64ce_20-exp-exhibitions.png",
+      "bytes": 174721,
+      "sha256": "4ae0ca150b47262f4efcf0b31b60f06bc84435f0c5608bda8cc285d26a008b17"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6aeca1d7d209aff16c55d9f1/6aeda0a70bd92053ad5c64ce_20-exp-exhibitions-p-500.png",
+      "path": "assets/cb074c5718ed-6aeda0a70bd92053ad5c64ce_20-exp-exhibitions-p-500.png",
+      "bytes": 83852,
+      "sha256": "d8c961541c31d02ec5505f52951ec0bca23d7b606be62d67fc4fc7230d2027dd"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6aeca1d7d209aff16c55d9f1/6aeda0aec1d4a4b4ea167bb8_21-exp-university.png",
+      "path": "assets/8a03ce4fd0f0-6aeda0aec1d4a4b4ea167bb8_21-exp-university.png",
+      "bytes": 167865,
+      "sha256": "1f02180178155e362a8cf0614dbad0d9dcc865c5f84343f65f67e1242176c492"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6aeca1d7d209aff16c55d9f1/6aeda0aec1d4a4b4ea167bb8_21-exp-university-p-500.png",
+      "path": "assets/3ba3eeb33b4c-6aeda0aec1d4a4b4ea167bb8_21-exp-university-p-500.png",
+      "bytes": 88885,
+      "sha256": "87c6079577d00be33e1628a7782fc1c249e10eda3dd5c5a7268cafec70f8f09d"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6aeca1d7d209aff16c55d9f1/6aeda0b338589e5e457e347c_22-exp-kids.png",
+      "path": "assets/6fe14de34fc8-6aeda0b338589e5e457e347c_22-exp-kids.png",
+      "bytes": 147163,
+      "sha256": "c27ee690c8f5b57959eb29d682e5e896ea644544de204a8ad5d327c31502e603"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6aeca1d7d209aff16c55d9f1/6aeda0b338589e5e457e347c_22-exp-kids-p-500.png",
+      "path": "assets/53a99674968a-6aeda0b338589e5e457e347c_22-exp-kids-p-500.png",
+      "bytes": 84508,
+      "sha256": "89839e47e3eab9e6506fb11d00b8ad519cb9664d177ce506cd9106c1c3b9a4ef"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6aeca1d7d209aff16c55d9f1/6aeda0b8261348dc1388e697_23-exp-dog.png",
+      "path": "assets/b0c1537834a4-6aeda0b8261348dc1388e697_23-exp-dog.png",
+      "bytes": 143112,
+      "sha256": "3cfef95e780c12c64d532793b07f4257c5bb9324ecf7b3927aa8971c3e344f07"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6aeca1d7d209aff16c55d9f1/6aeda0b8261348dc1388e697_23-exp-dog-p-500.png",
+      "path": "assets/be7511159580-6aeda0b8261348dc1388e697_23-exp-dog-p-500.png",
+      "bytes": 65676,
+      "sha256": "38b38dd3f1639b5452e0858d01864a8e87b1a2cafa16e5aa2e1c5de581055f70"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6aeca1d7d209aff16c55d9f1/6aeda0bd27efdff71469523a_24-exp-museums.png",
+      "path": "assets/664d7a52d74a-6aeda0bd27efdff71469523a_24-exp-museums.png",
+      "bytes": 165681,
+      "sha256": "a7cc516d09d4daad9c88c322e443c1c267da5d1e40bf6f795e5bea0e76b04164"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6aeca1d7d209aff16c55d9f1/6aeda0bd27efdff71469523a_24-exp-museums-p-500.png",
+      "path": "assets/b81c7e54d4c3-6aeda0bd27efdff71469523a_24-exp-museums-p-500.png",
+      "bytes": 92546,
+      "sha256": "2c362eedcf6a88d6cbcc100ef8a8ef4c8d903b3112a26d2d431164bedd2b01a4"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6aeca1d7d209aff16c55d9f1/6aece0ac3186db55fd0ec60b_13-how-cta-portraits.png",
+      "path": "assets/612e05509e61-6aece0ac3186db55fd0ec60b_13-how-cta-portraits.png",
+      "bytes": 117854,
+      "sha256": "965d4320fe9a8488df3190a2e6f7763976ffba9bacf8a4d93b68c6c4efb33abb"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6aeca1d7d209aff16c55d9f1/6aece0ac3186db55fd0ec60b_13-how-cta-portraits-p-500.png",
+      "path": "assets/bc8ea509b9d2-6aece0ac3186db55fd0ec60b_13-how-cta-portraits-p-500.png",
+      "bytes": 21904,
+      "sha256": "944ae644ae2aaa4b7b9df53c10e013ad122a8367debe326438fdd9156047c0ff"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6aeca1d7d209aff16c55d9f1/6aece0ac3186db55fd0ec60b_13-how-cta-portraits-p-800.png",
+      "path": "assets/d62959fa81e1-6aece0ac3186db55fd0ec60b_13-how-cta-portraits-p-800.png",
+      "bytes": 53625,
+      "sha256": "ca39abe3cca67d3f56a0861232eb1c45493795cf3efd8792e9aac6d8a02de63b"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6aeca1d7d209aff16c55d9f1/js/webflow.a9ba356d.d2f30196489a2709.js",
+      "path": "assets/2403bbe90cc8-webflow.a9ba356d.d2f30196489a2709.js",
+      "bytes": 1068,
+      "sha256": "3b82aed541c39b606ae5122fe1894504291daab71eb55ec4df78a30228954cd5"
+    }
+  ],
+  "errors": []
+}
